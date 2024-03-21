@@ -1,0 +1,175 @@
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\גיטי קנפלמכר\MyZimmer\MyZimmer\obj\Debug\MyZimmer.csproj.AssemblyReference.cache
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\גיטי קנפלמכר\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.MainPage.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\גיטי קנפלמכר\MyZimmer\MyZimmer\obj\Debug\MyZimmer.Properties.Resources.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\גיטי קנפלמכר\MyZimmer\MyZimmer\obj\Debug\MyZimmer.csproj.GenerateResource.cache
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\גיטי קנפלמכר\MyZimmer\MyZimmer\obj\Debug\MyZimmer.csproj.CoreCompileInputs.cache
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\גיטי קנפלמכר\MyZimmer\MyZimmer\bin\Debug\DAL\Project.accdb
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\גיטי קנפלמכר\MyZimmer\MyZimmer\bin\Debug\MyZimmer.exe.config
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\גיטי קנפלמכר\MyZimmer\MyZimmer\bin\Debug\MyZimmer.exe
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\גיטי קנפלמכר\MyZimmer\MyZimmer\bin\Debug\MyZimmer.pdb
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\גיטי קנפלמכר\MyZimmer\MyZimmer\obj\Debug\MyZimmer.exe
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\גיטי קנפלמכר\MyZimmer\MyZimmer\obj\Debug\MyZimmer.pdb
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\גיטי קנפלמכר\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmAddTenant.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\גיטי קנפלמכר\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmEnteranceRenting.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\גיטי קנפלמכר\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmEnteranceTenant.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\גיטי קנפלמכר\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmAddRenting.resources
+C:\Users\קול חי\Desktop\MyZimmer\MyZimmer\bin\Debug\DAL\Project.accdb
+C:\Users\קול חי\Desktop\MyZimmer\MyZimmer\bin\Debug\MyZimmer.exe.config
+C:\Users\קול חי\Desktop\MyZimmer\MyZimmer\bin\Debug\MyZimmer.exe
+C:\Users\קול חי\Desktop\MyZimmer\MyZimmer\bin\Debug\MyZimmer.pdb
+C:\Users\קול חי\Desktop\MyZimmer\MyZimmer\obj\Debug\MyZimmer.csproj.AssemblyReference.cache
+C:\Users\קול חי\Desktop\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmAddRenting.resources
+C:\Users\קול חי\Desktop\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmAddTenant.resources
+C:\Users\קול חי\Desktop\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmEnteranceRenting.resources
+C:\Users\קול חי\Desktop\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmEnteranceTenant.resources
+C:\Users\קול חי\Desktop\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.MainPage.resources
+C:\Users\קול חי\Desktop\MyZimmer\MyZimmer\obj\Debug\MyZimmer.Properties.Resources.resources
+C:\Users\קול חי\Desktop\MyZimmer\MyZimmer\obj\Debug\MyZimmer.csproj.GenerateResource.cache
+C:\Users\קול חי\Desktop\MyZimmer\MyZimmer\obj\Debug\MyZimmer.csproj.CoreCompileInputs.cache
+C:\Users\קול חי\Desktop\MyZimmer\MyZimmer\obj\Debug\MyZimmer.exe
+C:\Users\קול חי\Desktop\MyZimmer\MyZimmer\obj\Debug\MyZimmer.pdb
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\גיטי קנפלמכר\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmRenting.resources
+C:\Users\קול חי\Desktop\גיטי תכנות\MyZimmer\MyZimmer\obj\Debug\MyZimmer.csproj.AssemblyReference.cache
+C:\Users\קול חי\Desktop\גיטי תכנות\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmAddRenting.resources
+C:\Users\קול חי\Desktop\גיטי תכנות\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmAddTenant.resources
+C:\Users\קול חי\Desktop\גיטי תכנות\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmEnteranceRenting.resources
+C:\Users\קול חי\Desktop\גיטי תכנות\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmEnteranceTenant.resources
+C:\Users\קול חי\Desktop\גיטי תכנות\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmNewOrder.resources
+C:\Users\קול חי\Desktop\גיטי תכנות\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmRenting.resources
+C:\Users\קול חי\Desktop\גיטי תכנות\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmTenant.resources
+C:\Users\קול חי\Desktop\גיטי תכנות\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.MainPage.resources
+C:\Users\קול חי\Desktop\גיטי תכנות\MyZimmer\MyZimmer\obj\Debug\MyZimmer.Properties.Resources.resources
+C:\Users\קול חי\Desktop\גיטי תכנות\MyZimmer\MyZimmer\obj\Debug\MyZimmer.csproj.GenerateResource.cache
+C:\Users\קול חי\Desktop\גיטי תכנות\MyZimmer\MyZimmer\obj\Debug\MyZimmer.csproj.CoreCompileInputs.cache
+C:\Users\קול חי\Desktop\גיטי תכנות\MyZimmer\MyZimmer\obj\Debug\MyZimmer.exe
+C:\Users\קול חי\Desktop\גיטי תכנות\MyZimmer\MyZimmer\obj\Debug\MyZimmer.pdb
+C:\Users\קול חי\Desktop\גיטי תכנות\MyZimmer\MyZimmer\bin\Debug\DAL\Project.accdb
+C:\Users\קול חי\Desktop\גיטי תכנות\MyZimmer\MyZimmer\bin\Debug\MyZimmer.exe.config
+C:\Users\קול חי\Desktop\גיטי תכנות\MyZimmer\MyZimmer\bin\Debug\MyZimmer.exe
+C:\Users\קול חי\Desktop\גיטי תכנות\MyZimmer\MyZimmer\bin\Debug\MyZimmer.pdb
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\גיטי קנפלמכר\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmNewOrder.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\גיטי קנפלמכר\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmTenant.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\גיטי קנפלמכר\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmThisZimmer.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\גיטי קנפלמכר\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.UCZimmer.resources
+C:\Users\קול חי\Desktop\גיטי תכנות\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmDetailsOfOrders.resources
+C:\Users\קול חי\Desktop\גיטי תכנות\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmPayment.resources
+C:\Users\קול חי\Desktop\גיטי תכנות\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmThisZimmer.resources
+C:\Users\קול חי\Desktop\גיטי תכנות\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.UCPicture.resources
+C:\Users\קול חי\Desktop\גיטי תכנות\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.UCZimmer.resources
+C:\Users\קול חי\Desktop\גיטי תכנות\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmAddUpdateZimmer.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\גיטי קנפלמכר\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmAddService.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\גיטי קנפלמכר\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmAddUpdateZimmer.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\גיטי קנפלמכר\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmDetailsOfOrders.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\גיטי קנפלמכר\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmPayment.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\גיטי קנפלמכר\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.UCPicture.resources
+C:\Users\קול חי\Desktop\גיטי תכנות\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmAddService.resources
+E:\MyZimmer\MyZimmer\bin\Debug\DAL\Project.accdb
+E:\MyZimmer\MyZimmer\bin\Debug\MyZimmer.exe.config
+E:\MyZimmer\MyZimmer\bin\Debug\MyZimmer.exe
+E:\MyZimmer\MyZimmer\bin\Debug\MyZimmer.pdb
+E:\MyZimmer\MyZimmer\obj\Debug\MyZimmer.csproj.AssemblyReference.cache
+E:\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmAddRenting.resources
+E:\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmAddService.resources
+E:\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmAddTenant.resources
+E:\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmAddUpdateZimmer.resources
+E:\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmDetailsOfOrders.resources
+E:\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmEnteranceRenting.resources
+E:\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmEnteranceTenant.resources
+E:\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmNewOrder.resources
+E:\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmPayment.resources
+E:\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmRenting.resources
+E:\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmTenant.resources
+E:\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmThisZimmer.resources
+E:\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.MainPage.resources
+E:\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.UCPicture.resources
+E:\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.UCZimmer.resources
+E:\MyZimmer\MyZimmer\obj\Debug\MyZimmer.Properties.Resources.resources
+E:\MyZimmer\MyZimmer\obj\Debug\MyZimmer.csproj.GenerateResource.cache
+E:\MyZimmer\MyZimmer\obj\Debug\MyZimmer.csproj.CoreCompileInputs.cache
+E:\MyZimmer\MyZimmer\obj\Debug\MyZimmer.exe
+E:\MyZimmer\MyZimmer\obj\Debug\MyZimmer.pdb
+C:\Users\קול חי\Desktop\גיטי תכנות\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmAddComment.resources
+C:\Users\קול חי\Desktop\גיטי תכנות\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmShowOrders.resources
+C:\Users\קול חי\Desktop\גיטי תכנות\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmAbout.resources
+C:\Users\קול חי\Desktop\גיטי תכנות\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmShowService.resources
+C:\Users\קול חי\Desktop\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmAbout.resources
+C:\Users\קול חי\Desktop\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmAddComment.resources
+C:\Users\קול חי\Desktop\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmAddService.resources
+C:\Users\קול חי\Desktop\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmAddUpdateZimmer.resources
+C:\Users\קול חי\Desktop\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmDetailsOfOrders.resources
+C:\Users\קול חי\Desktop\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmNewOrder.resources
+C:\Users\קול חי\Desktop\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmPayment.resources
+C:\Users\קול חי\Desktop\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmRenting.resources
+C:\Users\קול חי\Desktop\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmShowOrders.resources
+C:\Users\קול חי\Desktop\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmShowService.resources
+C:\Users\קול חי\Desktop\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmTenant.resources
+C:\Users\קול חי\Desktop\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmThisZimmer.resources
+C:\Users\קול חי\Desktop\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.UCPicture.resources
+C:\Users\קול חי\Desktop\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.UCZimmer.resources
+C:\Users\קול חי\Desktop\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmServiceOrder.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\גיטי קנפלמכר\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmAbout.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\גיטי קנפלמכר\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmAddComment.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\גיטי קנפלמכר\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmServiceOrder.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\גיטי קנפלמכר\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmShowOrders.resources
+X:\מגמות תיכון\תכנות\שנה ג\כיתות ד2 ד3\גיטי קנפלמכר\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmShowService.resources
+C:\Users\קול חי\Desktop\ניסיון\MyZimmer\MyZimmer\bin\Debug\DAL\Project.accdb
+C:\Users\קול חי\Desktop\ניסיון\MyZimmer\MyZimmer\bin\Debug\MyZimmer.exe.config
+C:\Users\קול חי\Desktop\ניסיון\MyZimmer\MyZimmer\bin\Debug\MyZimmer.exe
+C:\Users\קול חי\Desktop\ניסיון\MyZimmer\MyZimmer\bin\Debug\MyZimmer.pdb
+C:\Users\קול חי\Desktop\ניסיון\MyZimmer\MyZimmer\obj\Debug\MyZimmer.csproj.AssemblyReference.cache
+C:\Users\קול חי\Desktop\ניסיון\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmAbout.resources
+C:\Users\קול חי\Desktop\ניסיון\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmAddComment.resources
+C:\Users\קול חי\Desktop\ניסיון\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmAddRenting.resources
+C:\Users\קול חי\Desktop\ניסיון\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmAddService.resources
+C:\Users\קול חי\Desktop\ניסיון\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmAddTenant.resources
+C:\Users\קול חי\Desktop\ניסיון\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmAddUpdateZimmer.resources
+C:\Users\קול חי\Desktop\ניסיון\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmDetailsOfOrders.resources
+C:\Users\קול חי\Desktop\ניסיון\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmEnteranceRenting.resources
+C:\Users\קול חי\Desktop\ניסיון\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmEnteranceTenant.resources
+C:\Users\קול חי\Desktop\ניסיון\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmNewOrder.resources
+C:\Users\קול חי\Desktop\ניסיון\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmPayment.resources
+C:\Users\קול חי\Desktop\ניסיון\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmRenting.resources
+C:\Users\קול חי\Desktop\ניסיון\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmServiceOrder.resources
+C:\Users\קול חי\Desktop\ניסיון\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmShowOrders.resources
+C:\Users\קול חי\Desktop\ניסיון\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmShowService.resources
+C:\Users\קול חי\Desktop\ניסיון\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmTenant.resources
+C:\Users\קול חי\Desktop\ניסיון\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmThisZimmer.resources
+C:\Users\קול חי\Desktop\ניסיון\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.MainPage.resources
+C:\Users\קול חי\Desktop\ניסיון\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.UCPicture.resources
+C:\Users\קול חי\Desktop\ניסיון\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.UCZimmer.resources
+C:\Users\קול חי\Desktop\ניסיון\MyZimmer\MyZimmer\obj\Debug\MyZimmer.Properties.Resources.resources
+C:\Users\קול חי\Desktop\ניסיון\MyZimmer\MyZimmer\obj\Debug\MyZimmer.csproj.GenerateResource.cache
+C:\Users\קול חי\Desktop\ניסיון\MyZimmer\MyZimmer\obj\Debug\MyZimmer.csproj.CoreCompileInputs.cache
+C:\Users\קול חי\Desktop\ניסיון\MyZimmer\MyZimmer\obj\Debug\MyZimmer.exe
+C:\Users\קול חי\Desktop\ניסיון\MyZimmer\MyZimmer\obj\Debug\MyZimmer.pdb
+C:\Users\COMPUTER\Desktop\‏‏תיקיה חדשה\MyZimmer\MyZimmer\bin\Debug\DAL\Project.accdb
+C:\Users\COMPUTER\Desktop\‏‏תיקיה חדשה\MyZimmer\MyZimmer\bin\Debug\MyZimmer.exe.config
+C:\Users\COMPUTER\Desktop\‏‏תיקיה חדשה\MyZimmer\MyZimmer\bin\Debug\MyZimmer.exe
+C:\Users\COMPUTER\Desktop\‏‏תיקיה חדשה\MyZimmer\MyZimmer\bin\Debug\MyZimmer.pdb
+C:\Users\COMPUTER\Desktop\‏‏תיקיה חדשה\MyZimmer\MyZimmer\obj\Debug\MyZimmer.csproj.AssemblyReference.cache
+C:\Users\COMPUTER\Desktop\‏‏תיקיה חדשה\MyZimmer\MyZimmer\obj\Debug\MyZimmer.csproj.SuggestedBindingRedirects.cache
+C:\Users\COMPUTER\Desktop\‏‏תיקיה חדשה\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmAbout.resources
+C:\Users\COMPUTER\Desktop\‏‏תיקיה חדשה\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmAddComment.resources
+C:\Users\COMPUTER\Desktop\‏‏תיקיה חדשה\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmAddRenting.resources
+C:\Users\COMPUTER\Desktop\‏‏תיקיה חדשה\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmAddService.resources
+C:\Users\COMPUTER\Desktop\‏‏תיקיה חדשה\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmAddTenant.resources
+C:\Users\COMPUTER\Desktop\‏‏תיקיה חדשה\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmAddUpdateZimmer.resources
+C:\Users\COMPUTER\Desktop\‏‏תיקיה חדשה\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmDetailsOfOrders.resources
+C:\Users\COMPUTER\Desktop\‏‏תיקיה חדשה\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmEnteranceRenting.resources
+C:\Users\COMPUTER\Desktop\‏‏תיקיה חדשה\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmEnteranceTenant.resources
+C:\Users\COMPUTER\Desktop\‏‏תיקיה חדשה\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmNewOrder.resources
+C:\Users\COMPUTER\Desktop\‏‏תיקיה חדשה\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmPayment.resources
+C:\Users\COMPUTER\Desktop\‏‏תיקיה חדשה\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmRenting.resources
+C:\Users\COMPUTER\Desktop\‏‏תיקיה חדשה\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmServiceOrder.resources
+C:\Users\COMPUTER\Desktop\‏‏תיקיה חדשה\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmShowOrders.resources
+C:\Users\COMPUTER\Desktop\‏‏תיקיה חדשה\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmShowService.resources
+C:\Users\COMPUTER\Desktop\‏‏תיקיה חדשה\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmTenant.resources
+C:\Users\COMPUTER\Desktop\‏‏תיקיה חדשה\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.FrmThisZimmer.resources
+C:\Users\COMPUTER\Desktop\‏‏תיקיה חדשה\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.MainPage.resources
+C:\Users\COMPUTER\Desktop\‏‏תיקיה חדשה\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.UCPicture.resources
+C:\Users\COMPUTER\Desktop\‏‏תיקיה חדשה\MyZimmer\MyZimmer\obj\Debug\MyZimmer.GUI.UCZimmer.resources
+C:\Users\COMPUTER\Desktop\‏‏תיקיה חדשה\MyZimmer\MyZimmer\obj\Debug\MyZimmer.Properties.Resources.resources
+C:\Users\COMPUTER\Desktop\‏‏תיקיה חדשה\MyZimmer\MyZimmer\obj\Debug\MyZimmer.csproj.GenerateResource.cache
+C:\Users\COMPUTER\Desktop\‏‏תיקיה חדשה\MyZimmer\MyZimmer\obj\Debug\MyZimmer.csproj.CoreCompileInputs.cache
+C:\Users\COMPUTER\Desktop\‏‏תיקיה חדשה\MyZimmer\MyZimmer\obj\Debug\MyZimmer.exe
+C:\Users\COMPUTER\Desktop\‏‏תיקיה חדשה\MyZimmer\MyZimmer\obj\Debug\MyZimmer.pdb
